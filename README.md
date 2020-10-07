@@ -13,7 +13,5 @@
 Bitly公司與美國政府合作提供公開匿名資料feed，分析使用者使用的瀏覽器、時區以及其他資訊
 
 1. pandas 
-
 2. matplotlib
-
-3.numpy
+3. numpy
